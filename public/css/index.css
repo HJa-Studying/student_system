@@ -1,0 +1,13 @@
+* {
+    margin:0;
+    padding:0;
+}
+html,
+body {
+    height:100%;
+    overflow: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+  }
